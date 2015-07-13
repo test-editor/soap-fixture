@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.testeditor.fixture</groupId>
 	<artifactId>soap-fixture</artifactId>
-	<version>1.7.2-SNAPSHOT</version>
+	<version>1.8.0</version>
 	<packaging>jar</packaging>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>Fixture used for testing SOAP applications.</description>
@@ -60,7 +60,7 @@
 		<dependency>
 			<groupId>org.testeditor.fixture</groupId>
 			<artifactId>core-fixture</artifactId>
-			<version>1.7.2-SNAPSHOT</version>
+			<version>1.8.0</version>
 		</dependency>
 		<dependency>
 			<groupId>com.google.guava</groupId>
