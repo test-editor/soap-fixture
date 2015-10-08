@@ -1,2 +1,4 @@
 # soap-fixture
-Fixture used for testing SOAP applications.
+NO LONGER VALID!
+
+Merged into new repository: https://github.com/test-editor/fixtures
